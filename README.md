@@ -14,6 +14,7 @@
 - [~hibernate-types~ hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils/commits?author=nkonev)
 - [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway/commits?author=nkonev)
 - [spring-cloud-openfeign](https://github.com/spring-cloud/spring-cloud-openfeign/commits?author=nkonev)
+- [spring-data-jdbc](https://github.com/spring-projects/spring-data-relational/commits?author=nkonev)
 - [livekit/egress](https://github.com/livekit/egress/commits?author=nkonev)
 - [dolt](https://github.com/dolthub/dolt/commits?author=nkonev)
 
