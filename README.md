@@ -4,7 +4,12 @@
 - Author and maintainer of [r2dbc-migrate](https://github.com/nkonev/r2dbc-migrate), the post in my [blog](https://nkonev.name/post/136), available on Maven central
 - Backend Go / Java / Kotlin developer at some e-commerce company.
 - Pet project: a Zoom / Telegram / Rocket.Chat clone named [videochat](https://github.com/nkonev/videochat) - a self-hosted chat application with video calls.
-- [Blog](https://nkonev.name)
+- My [blog](https://nkonev.name), I recommend to read
+- - [Неочевидные боли многопоточности Java](https://nkonev.name/post/196)
+  - [Попробуем Java 19 Structured concurrency](https://nkonev.name/post/186)
+  - [Почему не нужно использовать Spring Cloud в 2024 году](https://nkonev.name/post/332)
+  - [Почему Playwright лучше чем Selenium](https://nkonev.name/post/327)
+  - [Single-node Apache Kafka without Zookeeper using official docker image or say "No" to Zookeeper](https://nkonev.name/post/338)
 - You can reach me via telegram `@nkonev`
 
 
