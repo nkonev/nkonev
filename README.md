@@ -22,6 +22,7 @@
 - [spring-data-jdbc](https://github.com/spring-projects/spring-data-relational/commits?author=nkonev)
 - [netflix dgs](https://github.com/Netflix/dgs-framework/commits?author=nkonev)
 - [livekit/egress](https://github.com/livekit/egress/commits?author=nkonev)
+- [graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata/commits?author=nkonev)
 - [dolt](https://github.com/dolthub/dolt/commits?author=nkonev)
 
 
