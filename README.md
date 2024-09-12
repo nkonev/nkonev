@@ -7,7 +7,7 @@
 - You can reach me via telegram `@nkonev`
 
 
-# Some of relevant commits to Open Source
+# Some of my relevant commits to Open Source
 
 - [postgres_exporter](https://github.com/prometheus-community/postgres_exporter/commits?author=nkonev)
 - [hibernate-types -> hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils/commits?author=nkonev)
