@@ -1,7 +1,7 @@
 ### About me [GitHub](https://github.com/nkonev) | [Gitflic](https://gitflic.ru/user/nkonev)
 
-- Author and maintainer of [multipart-spring-graphql](https://github.com/nkonev/multipart-spring-graphql), available on Maven central
-- Author and maintainer of [r2dbc-migrate](https://github.com/nkonev/r2dbc-migrate), the post in my [blog](https://nkonev.name/post/136), available on Maven central
+- Author and maintainer of [multipart-spring-graphql](https://github.com/nkonev/multipart-spring-graphql), available on [Maven central](https://repo.maven.apache.org/maven2/name/nkonev/multipart-spring-graphql/)
+- Author and maintainer of [r2dbc-migrate](https://github.com/nkonev/r2dbc-migrate), the post in my [blog](https://nkonev.name/post/136), available on [Maven central](https://repo.maven.apache.org/maven2/name/nkonev/r2dbc-migrate/)
 - Backend Go / Java / Kotlin developer at some e-commerce company.
 - Pet project: a Zoom / Telegram / Rocket.Chat clone named [videochat](https://github.com/nkonev/videochat) - a self-hosted chat application with video calls.
 - My [blog](https://nkonev.name), I recommend to read
