@@ -1,4 +1,4 @@
-### About me [GitHub](https://github.com/nkonev) | [Gitflic](https://gitflic.ru/user/nkonev)
+### About me [GitHub](https://github.com/nkonev) | [GitFlic](https://gitflic.ru/user/nkonev)
 
 - Author and maintainer of [multipart-spring-graphql](https://github.com/nkonev/multipart-spring-graphql), available on [Maven central](https://repo.maven.apache.org/maven2/name/nkonev/multipart-spring-graphql/)
 - Author and maintainer of [r2dbc-migrate](https://github.com/nkonev/r2dbc-migrate), the post in my [blog](https://nkonev.name/post/136), available on [Maven central](https://repo.maven.apache.org/maven2/name/nkonev/r2dbc-migrate/)
