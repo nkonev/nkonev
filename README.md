@@ -18,6 +18,7 @@
 - [postgres_exporter](https://github.com/prometheus-community/postgres_exporter/commits?author=nkonev)
 - [~hibernate-types~ hypersistence-utils](https://github.com/vladmihalcea/hypersistence-utils/commits?author=nkonev)
 - [spring-cloud-gateway](https://github.com/spring-cloud/spring-cloud-gateway/commits?author=nkonev)
+- [traefik](https://github.com/traefik/traefik/commits?author=nkonev)
 - [spring-cloud-openfeign](https://github.com/spring-cloud/spring-cloud-openfeign/commits?author=nkonev)
 - [spring-data-jdbc](https://github.com/spring-projects/spring-data-relational/commits?author=nkonev)
 - [netflix dgs](https://github.com/Netflix/dgs-framework/commits?author=nkonev)
