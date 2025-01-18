@@ -22,6 +22,7 @@
 - [traefik](https://github.com/traefik/traefik/commits?author=nkonev)
 - [spring-cloud-openfeign](https://github.com/spring-cloud/spring-cloud-openfeign/commits?author=nkonev)
 - [spring-data-jdbc](https://github.com/spring-projects/spring-data-relational/commits?author=nkonev)
+- [spring-security](https://github.com/spring-projects/spring-security/commits?author=nkonev)
 - [netflix dgs](https://github.com/Netflix/dgs-framework/commits?author=nkonev)
 - [livekit/egress](https://github.com/livekit/egress/commits?author=nkonev)
 - [graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata/commits?author=nkonev)
