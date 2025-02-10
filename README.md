@@ -32,6 +32,6 @@
 ### Last things I played with
 
 - Dolt
-- Apache Flink, especially, Flink SQL and Flink CDC, made an example project to replicate data from PostgreSQL via Flink CDC to ElasticSearch, Clickhouse https://github.com/nkonev/flink-pipe
-- An example project to stream the data from Patroni-clustered PostgreSQL to Clickhouse via Debezium for a partitioned table https://github.com/nkonev/patroni/tree/debezium
+- Apache Flink, especially, Flink SQL and Flink CDC, made an [example project](https://github.com/nkonev/flink-pipe) to replicate data from PostgreSQL via Flink CDC to ElasticSearch, Clickhouse
+- An [example project](https://github.com/nkonev/patroni/tree/debezium) to stream the data from Patroni-clustered PostgreSQL to Clickhouse via Debezium for a partitioned table
 - [Apache Cassandra](https://github.com/nkonev/cassandra-example)
