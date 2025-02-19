@@ -11,7 +11,6 @@
   - [Почему не нужно использовать Spring Cloud в 2024 году](https://nkonev.name/post/332)
   - [Почему Playwright лучше чем Selenium](https://nkonev.name/post/327)
   - [Single-node Apache Kafka without Zookeeper using official docker image or say "No" to Zookeeper](https://nkonev.name/post/338)
-- You can reach me via telegram `@nkonev`
 
 
 ### Some of my relevant commits to Open Source
